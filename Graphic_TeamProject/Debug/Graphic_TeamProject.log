@@ -1,0 +1,4 @@
+﻿  graphicsclass.cpp
+C:\Users\juneeone\Downloads\Graphics_Team-master (1)\Graphics_Team-master\Graphic_TeamProject\graphicsclass.cpp(409,52): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+C:\Users\juneeone\Downloads\Graphics_Team-master (1)\Graphics_Team-master\Graphic_TeamProject\graphicsclass.cpp(345,8): warning C4101: 'rotated_ModelX' :참조되지 않은 지역 변수입니다.
+  Graphic_TeamProject.vcxproj -> C:\Users\juneeone\Downloads\Graphics_Team-master (1)\Graphics_Team-master\Debug\Graphic_TeamProject.exe
